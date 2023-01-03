@@ -1,16 +1,23 @@
-### Hi there 👋
+# ME
 
-<!--
-**JingusJohn/JingusJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a full stack web developer while also attending university in pursuit of a Computer Science degree. I'm in my second year. Known as the CRUD master in the office.
 
-Here are some ideas to get you started:
+I'm always paying attention to the bleeding edge technologies that I think have potential to shake things up in the enterprise space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm proficient in the following languages:
+
+- Javascript/Typescript
+- Python
+- HTML/CSS
+- Java
+- C#
+
+## I'm using the following frameworks:
+
+- Angular
+- SvelteKit <-- Framework of choice for personal projects
+- Mux
+- ASP.NET
+- FastAPI
+
+You can find more information about me on [my website](https://www.jackbranch.dev)
