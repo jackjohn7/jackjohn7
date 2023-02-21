@@ -4,6 +4,8 @@ I work as a full stack web developer while also attending university in pursuit 
 
 I'm always paying attention to the bleeding edge technologies that I think have potential to shake things up in the enterprise space.
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@53818ee2-c136-432f-b8b8-c44c0f457bd5/6ebe5968-269a-4059-ae47-ef22374cf18e.png" /></a>
+
 ## I'm proficient in the following languages:
 
 - Javascript/Typescript
