@@ -22,4 +22,11 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 - ASP.NET
 - FastAPI
 
+## Current Stack
+
+- SvelteKit
+- Express + tRPC (may move to standalone eventually)
+- Prisma
+- PostgreSQL
+
 You can find more information about me on [my website](https://www.jackbranch.dev)
