@@ -1,12 +1,12 @@
-# ME
+# Hey! 👋
 
-I work as a full stack web developer while also attending university in pursuit of a Computer Science degree. I'm going into my third year. Known as the CRUD master in the office. Really enjoying Golang right now.
+I work as a full stack web developer while also attending university in pursuit of a Computer Science degree. I'm going into my third year. Known as the CRUD master in the office. Really enjoying [Go](https://go.dev) right now.
+
+I love architecting applications.
 
 I'm always paying attention to the bleeding edge technologies that I think have potential to shake things up in the enterprise space.
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@53818ee2-c136-432f-b8b8-c44c0f457bd5/6ebe5968-269a-4059-ae47-ef22374cf18e.png" /></a>
-
-## I'm proficient in the following languages:
+## I'm Most Proficient in the Following Languages:
 
 - Javascript/Typescript
 - Python
@@ -15,10 +15,11 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 - Java
 - C#
 
-## I'm using the following frameworks:
+## A Few Things I'm Using:
 
 - Angular <-- In industry
-- SvelteKit <-- Framework of choice for personal projects
+- SvelteKit 🔥 <-- Framework of choice for personal projects
+- TailwindCSS
 - React <-- My second choice for building applications
 - Tauri <-- Desktop apps with a familiar workflow (mobile support coming soon)
 - Express
@@ -26,6 +27,7 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 - Mux
 - ASP.NET
 - FastAPI
+- PostgreSQL
 
 ## Current Goto Stack Choices
 
@@ -39,9 +41,9 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 ## Wanting to Learn or Continue Learning
 
 - Rust (still getting a handle on lifetimes lol)
-- Flutter
-- MongoDB
-- Docker
+- Flutter (wanting to try mobile apps)
+- MongoDB (trying to diversify my data solutions)
+- Docker (had a few experiences, but my unfamiliarity made it difficult)
 - PHP (with Laravel)
 
 You can find more information about me on [my website](https://www.jackbranch.dev)
