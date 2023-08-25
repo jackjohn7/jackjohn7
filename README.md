@@ -19,6 +19,7 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 
 - Angular <-- In industry
 - SvelteKit 🔥 <-- Framework of choice for personal projects
+- Docker <-- In personal projects and industry
 - TailwindCSS
 - React <-- My second choice for building applications
 - Tauri <-- Desktop apps with a familiar workflow (mobile support coming soon)
@@ -33,7 +34,7 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 
 - SvelteKit + Tailwindcss
 - Express + tRPC (may move to standalone eventually)
-- Go (Using for Backends and public API's)
+- Go (Goto for backends)
 - Prisma (Looking into Kysely and Drizzle)
 - PostgreSQL
 - Redis
@@ -41,9 +42,10 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 ## Wanting to Learn or Continue Learning
 
 - Rust (still getting a handle on lifetimes lol)
+- OCaml
+- Haskell
 - Flutter (wanting to try mobile apps)
 - MongoDB (trying to diversify my data solutions)
-- Docker (had a few experiences, but my unfamiliarity made it difficult)
 - PHP (with Laravel)
 
 You can find more information about me on [my website](https://www.jackbranch.dev)
