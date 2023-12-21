@@ -11,6 +11,7 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 - Javascript/Typescript
 - Python
 - Go
+- Rust
 - HTML/CSS
 - Java
 - C#
@@ -24,6 +25,8 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 - React <-- My second choice for building applications
 - Tauri <-- Desktop apps with a familiar workflow (mobile support coming soon)
 - Express
+- Echo <-- Goto Go framework for personal projects and work
+- Rust + Axum + Askama
 - Gin
 - Mux
 - ASP.NET
@@ -41,7 +44,6 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 
 ## Wanting to Learn or Continue Learning
 
-- Rust (still getting a handle on lifetimes lol)
 - OCaml
 - Haskell
 - Flutter (wanting to try mobile apps)
