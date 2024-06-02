@@ -35,6 +35,7 @@ I'm always paying attention to the bleeding edge technologies that I think have 
 
 ## Current Goto Stack Choices
 
+- Rust
 - SvelteKit + Tailwindcss
 - Express + tRPC (may move to standalone eventually)
 - Go (Goto for backends)
