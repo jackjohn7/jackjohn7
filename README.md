@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I work as a full stack web developer while also attending university in pursuit of a Computer Science degree. I'm going into my third year. Known as the CRUD master in the office. Really enjoying [Go](https://go.dev) right now.
+I work as a software engineer at [Chassy](https://chassy.io) while also attending university in pursuit of a Computer Science degree. I'm going into my third year. Really enjoying [Go](https://go.dev) right now.
 
 I love architecting applications.
 
