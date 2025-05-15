@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I work as a software engineer at [Chassy](https://chassy.io) while also attending university in pursuit of a Computer Science degree as a senior. Really enjoying [Rust](https://rust-lang.org) right now.
+I work as a software engineer at [Chassy](https://chassy.io) while also attending university in pursuit of a Computer Science degree as a senior. Core maintainer of [Basalt](https://github.com/basalt-rs). Really enjoying [Rust](https://rust-lang.org) right now.
 
 I love architecting applications.
 
